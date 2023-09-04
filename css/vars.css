@@ -1,0 +1,20 @@
+:root{
+    /* fonts */
+    --ff-main: 'Poppins', sans-serif;
+    
+    /* font size */
+    --fs-lg: 3.125rem; /* 50px -> main title */
+    --fs-md: 1.125rem; /* 18px -> destination - price */
+    --fs-nm: 1rem; /* 16px -> days */
+    --fs-sm: 0.875rem; /* 14px -> optional */
+
+    /* font weight */
+    --fw-bd: 700; /* bold -> main title */
+    --fw-md: 500; /* medium -> all text except title */
+
+    /* colors */
+    --clr-white: hsla(0, 0%, 100%, 1);
+    --clr-black: hsla(0, 0%, 0%, 1);
+    --clr-black-shadow: hsla(0, 0%, 0%, .1);
+    --clr-purple: hsla(233, 16%, 44%, 1);
+}
